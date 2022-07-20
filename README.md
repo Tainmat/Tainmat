@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Tainã!
 
 - 🔭 I’m currently working on Database and Back End Development
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning Node JS
 - 📫 How to reach me: tmartins.pino@gmail.com
 - 😄 Pronouns: He/His
 

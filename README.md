@@ -21,7 +21,7 @@
   <img align="center" alt="Tainmat-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Tainmat-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Tainmat-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="Tainmat-Symfony" height="30" width="40" color="#ff0000" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg">
+  <img align="center" alt="Tainmat-Symfony" height="30" width="40" style="fill: red;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg">
 </div>
   
   ##
